@@ -1,3 +1,3 @@
 # Resources
 
-* Beginning C which is written by Ivar Horton
+* Beginning C which is written by Ivor Horton
