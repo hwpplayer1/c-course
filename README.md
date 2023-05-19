@@ -1,4 +1,4 @@
-# c-course
+# c-course devel branch
 
 A Course about C programming language
 
