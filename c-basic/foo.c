@@ -1,3 +1,13 @@
+/**
+ * @file foo.c
+ * @author Mert Gör (mertgor@masscollabs.xyz)
+ * @brief Foo example
+ * @version 0.1
+ * @date 2024-01-24
+ * 
+ * @copyright Copyright (c) 2024 Mert Gör and contributors - GPLv3 or any later
+ * 
+ */
 #include <stdio.h>
 
 int foo()
