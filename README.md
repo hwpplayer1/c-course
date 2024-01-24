@@ -12,7 +12,7 @@ Other contributions are licensed under the terms of GPLv3+ License like written 
 
 C, Systems Programming and UNIX/Linux course 
 
-Copyright (C) 2023 Mert Gör and contributors
+Copyright (C) 2023-2024 Mert Gör and contributors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
