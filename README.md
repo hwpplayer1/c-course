@@ -8,7 +8,7 @@ CSD C notlarının tamamını kapsaması hedeflenmektedir. Bu depodaki içerikle
 
 Kaan Aslan'ın notundan faydalanılmıştır.
 
-Other contributions are licensed under the terms of GPLv3+ License like written below
+Other contributions are licensed under the terms of GPLv3-or-later License like written below
 
 C, Systems Programming and UNIX/Linux course 
 
