@@ -1,0 +1,28 @@
+2024-02-01  Mert Gör  <mertgor@masscollabs.xyz>
+
+	* c-basic/scope.c: scope and variables explained
+
+	* c-basic/scanf-hex.c: Scanf accepts the int variable as hex if we pass %x 
+
+	* c-basic/scanf-float-double.c: Scanf reads float as %f and double %lf
+
+	* c-basic/scanf-example.c: gettıng input source via scancf 
+
+	* c-basic/scanf-example-two-variables.c: scanf example with two variables
+
+	* c-basic/scanf-a-b-c-double.c: set a,b,c double variables, read a and b with scanf function and then pass addition of a and b to c variable and print c variable
+
+	* c-basic/print_variables.c: print variables with different ways
+
+	* c-basic/on-return.c: explaining return value
+
+	* c-basic/on-return.2.c: explaining return value : "without return same result exists"
+
+	* c-basic/on-return-void.c: if we pass void then it means function has no return value, and those functions are void functions
+
+	* c-basic/initialization-variable.c: Swap Algorithm with initialized variables example
+
+	* c-basic/helloworld.c: hello world example added
+
+	* c-basic/foo.c: foo example added
+
