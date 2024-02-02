@@ -1,3 +1,7 @@
+2024-02-02  Mert Gör  <mertgor@masscollabs.xyz>
+
+	* c-basic/local-variable-scope.c: local variable and global variable explained 
+
 2024-02-01  Mert Gör  <mertgor@masscollabs.xyz>
 
 	* c-basic/scope.c: scope and variables explained
