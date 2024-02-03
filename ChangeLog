@@ -1,3 +1,7 @@
+2024-02-03  Mert Gör  <mertgor@masscollabs.xyz>
+
+	* c-basic/local-variable-global-variable_scope.c (main): local and global variable values are printed
+
 2024-02-02  Mert Gör  <mertgor@masscollabs.xyz>
 
 	* c-basic/local-variable-scope.c: local variable and global variable explained 
