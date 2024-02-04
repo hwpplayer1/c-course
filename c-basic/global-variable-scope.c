@@ -1,6 +1,6 @@
 /**
 
-local-variable-global-cariable_scope.c - local variable and global variable explained 
+global-variable-scope.c - global variable and their scopes explained 
    
 Copyright (C) 2023-2024 Mert Gör and contributors
 
@@ -23,18 +23,17 @@ Feel free to send an email to mertgor@masscollabs.xyz for your questions
 
 #include <stdio.h>
 
-int main() {
-  int a;
+int a;
 
+void foo(){
   a = 10;
+}
 
-  {
-    int a;
-    a = 20;
-    printf("%d\n", a); /* a value is 20*/
-  }
-
-  printf("%d\n",a); /* a value is 10 because it comes from the global variable a value*/
+int main(){
+  a = 30;
+  printf("%d\n", a); /* a is 30*/
+  foo();
+  printf("%d\n", a); /* a is 10*/
 
   return 0;
 }
