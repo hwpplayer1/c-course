@@ -1,3 +1,7 @@
+2024-02-14  Mert Gör  <mertgor@masscollabs.xyz>
+
+	* c-basic/C.pdf: CSD Derneği C temel notu tekrar C-Basic klasörüne eklendi ancak hwpplayer1 dalı için eklendi. Örnekler özgün olarak yeniden yazılacak.
+
 2024-02-04  Mert Gör  <mertgor@masscollabs.xyz>
 
 	* c-basic/global-variable-scope.c (foo): global variable and local variable explained with two different a variable value 
