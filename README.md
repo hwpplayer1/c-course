@@ -4,6 +4,8 @@ C programlama dili kursu notu CSD - C ve Sistem Programcıları Derneği tarafı
 
 CSD C notlarının tamamını kapsaması hedeflenmektedir. Bu depodaki içerikler Sistem Programlama ve UNIX/Linux(kernel programlama) derslerini de içerir şekilde yazılacaktır.
 
+hwpplayer1 dalındaki katkılar ayrıca ele alınmaktadır. CSD Dernek Kaan Aslan hocamızın anlatımıyla çakışmaması ve lisans ihlali olmaması adına ayrı bir dal olarak hwpplayer1 açılmıştır. Burada kendi anladığımız ve kendi istediğimiz kodlar yazılacaktır.
+
 # License
 
 Kaan Aslan'ın notundan faydalanılmıştır.
