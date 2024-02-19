@@ -1,5 +1,7 @@
 2024-02-19  Mert Gör  <mertgor@masscollabs.xyz>
 
+	* c-basic/C.pdf: Fonksiyonların Parametre Değişkenleri sayfa 27'deyiz
+
 	* c-basic/global.variable.c: C'de  derleme  işleminin  bir  yönü  vardır.  Bu  yön  yukarıdan  aşağıya  doğrudur.  Derleyicinin  önce  değişkenin 
 bildirimini görmesi gerekir. Bu nedenle bir global değişkeni aşağıda bildirip daha yukarıda kullanamayız. 
 
