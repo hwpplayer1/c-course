@@ -1,5 +1,8 @@
 2024-02-19  Mert Gör  <mertgor@masscollabs.xyz>
 
+	* c-basic/global.variable.c: C'de  derleme  işleminin  bir  yönü  vardır.  Bu  yön  yukarıdan  aşağıya  doğrudur.  Derleyicinin  önce  değişkenin 
+bildirimini görmesi gerekir. Bu nedenle bir global değişkeni aşağıda bildirip daha yukarıda kullanamayız. 
+
 	* c-basic/local.variable.c: Bir global değişkenle aynı isimli yerel değişkenler tanımlanabilir. Çünkü bunlar farklı faaliyet alanlarına sahiptir. 
 Tabi  ilgili  blokta  bu  değişken  ismi  kullanıldığında  dar  faaliyet  alanaına  sahip  olana  (yani  yerel  olana)  erişilir. 
 
