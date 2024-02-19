@@ -1,3 +1,31 @@
+2024-02-19  Mert Gör  <mertgor@masscollabs.xyz>
+
+	* c-basic/global-local-variables.c: global and local variable scopes exmplained
+
+	* c-basic/void.function.c: void fonksiyonlarda return kullanılmamışsa fonksiyon ana blok sonlanınca sonlanır. 
+
+	* c-basic/return.2.c: return 0;    /* bu olmasaydı da aynı anlam oluşacaktı */ 
+
+	* c-basic/return.c: return explained
+
+	* c-basic/abc-double.c: İsmi a, b, c olan double türden 3 değişken tanımlayınız. Sonra a ve b için klavyeden scaf fonksiyonuyla okuma 
+yapınız. Bu ikisinin toplamını c'ye atayınız ve c'yi yazdırınız.
+
+	* c-basic/float-and-double.c: printf fonksiyonunda hem float hem de double türleri %f ile yazdırılır. Ancak scanf fonksiyonunda float %f ile, 
+double %lf ile okunur. 
+
+	* c-basic/scanf-example.hex.c: scanf ile %x ile okumak istersek klavyeden yaptığımız girişin 16'lık sistemde olduğu kabul edilir. 
+
+	* c-basic/scanf-example.2.c: scanf example 2
+
+	* c-basic/scanf-example.c: scanf example explained
+
+	* c-basic/printf-examples.c: printf examples explained
+
+	* c-basic/foo.c: Foo example : C'de iç içe fonksiyon tanımlanamaz. Her fonksiyon diğerinin dışında tanımlanmak zorundadır. 
+
+	* c-basic/hello.c: hello world example
+
 2024-02-14  Mert Gör  <mertgor@masscollabs.xyz>
 
 	* c-basic/C.pdf: CSD Derneği C temel notu tekrar C-Basic klasörüne eklendi ancak hwpplayer1 dalı için eklendi. Örnekler özgün olarak yeniden yazılacak.
