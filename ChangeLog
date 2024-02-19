@@ -1,5 +1,15 @@
 2024-02-19  Mert Gör  <mertgor@masscollabs.xyz>
 
+	* c-basic/local.variable.c: Bir global değişkenle aynı isimli yerel değişkenler tanımlanabilir. Çünkü bunlar farklı faaliyet alanlarına sahiptir. 
+Tabi  ilgili  blokta  bu  değişken  ismi  kullanıldığında  dar  faaliyet  alanaına  sahip  olana  (yani  yerel  olana)  erişilir. 
+
+
+	* c-basic/global.variable.scope.c: Bildirimleri fonksiyonların dışında yapılan değişkenlere global değişkenler denir. Global değişkenler dosya faaliyet 
+alanına (file scope) sahiptir. Yani tüm fonksiyonlarda tanınırlar. 
+
+	* c-basic/scope.example.c: C'de bir blokta bir'den fazla değişken faaliyet gösteriyorsa o blokta o değişken ismi kullanıldığında dar faaliyet 
+alanına sahip olan değişkene erişilir. 
+
 	* c-basic/global-local-variables.c: global and local variable scopes exmplained
 
 	* c-basic/void.function.c: void fonksiyonlarda return kullanılmamışsa fonksiyon ana blok sonlanınca sonlanır. 
