@@ -1,5 +1,7 @@
 2024-06-30  hwpplayer1  <hwpplayer1@debian>
 
+	* c-basic/printf.c: printf example
+
 	* c-basic/foo.c: Foo example
 
 	* c-basic/helloworld.c: hello world example
