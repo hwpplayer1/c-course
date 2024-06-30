@@ -1,5 +1,7 @@
 2024-06-30  hwpplayer1  <hwpplayer1@debian>
 
+	* c-basic/hex_scanf.c: hex scanf example
+
 	* c-basic/scanf_2.c: scanf two numbers
 
 	* c-basic/scanf.c: Scanf example
