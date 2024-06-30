@@ -1,5 +1,7 @@
 2024-06-30  hwpplayer1  <hwpplayer1@debian>
 
+	* c-basic/C.pdf: sayfa 22 Fonksiyonların Geri Dönüş Değerleri (return value)
+
 	* c-basic/float_double.c: float double example
 
 	* c-basic/hex_scanf.c: hex scanf example
