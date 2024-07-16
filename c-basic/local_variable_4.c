@@ -8,10 +8,12 @@ int main(){
     printf("%d\n", a); 
 
     {
-        int a;
+        int b;
+
+        b = 30;
 
         a = 20;
-        printf("%d\n", a); 
+        printf("a = %d , b = %d\n", a, b); 
     }
 
     printf("%d\n", a); 
