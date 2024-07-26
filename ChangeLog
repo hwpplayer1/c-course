@@ -1,3 +1,9 @@
+2024-07-26  hwpplayer1  <hwpplayer1@debian>
+
+	* c-basic/C.pdf: Fonksiyonların Parametre Değişkenleri page 27
+
+	* c-basic/global_variable_2.c (main): global variable and local variable example
+
 2024-07-17  hwpplayer1  <hwpplayer1@debian>
 
 	* c-basic/C.pdf: Global Değişkenlerin Faaliyet Alanı sayfa 26
