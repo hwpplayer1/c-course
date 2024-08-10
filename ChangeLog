@@ -1,5 +1,7 @@
 2024-08-10  hwpplayer1  <hwpplayer1@debian>
 
+	* c-basic/example.c (main): example örnek kod yazıldı .c uzantılı dosya içine kod yerleştirildi
+
 	* c-basic/C.pdf: Dersler C Temel kursundan itibaren yeniden başlatıldı. 
 
 2024-07-26  hwpplayer1  <hwpplayer1@debian>
