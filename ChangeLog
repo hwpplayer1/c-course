@@ -1,6 +1,22 @@
 2024-08-10  hwpplayer1  <hwpplayer1@debian>
 
+	* c-basic/C.pdf: Derleyicilerin Hata Mesajları
+Derleyicilerin hata mesajları üçe ayrılmaktadır:
+1. Uyarılar (Warnings): Uyarılar gerçek hatalar değildir. Program içerisindeki program yapmış olabileceği olası
+mantık hatalarına dikkati çekmek için verilirler. Uyarılar derleme işleminin başarısızlığına yol açmazlar. Ancak
+programcıların uyarılara çok dikkat etmesi gerekir. Çünkü pek çok uyarıda derleyici haklı bir yere dikkat
+çekmektedir.
+2. Gerçek Hatalar (Errors): Bunlar dilin sentaks ve semantik kurallarına uyulmaması yüzünden verilirler.
+Bunların mutlaka düzeltilmesi gerekir. Bir programda bir tane bile “error” olsa program başarılı olarak derlenemez.
+3. Ölümcül Hatalar (Fatal Errors): Dereleme işleminin bile devam etmesini engelleyen ciddi hatalardır. Normal
+olarak bir programda ne kadar hata olursa olsun tüm kod gözden geçirilir. Tüm hatalar en sonında listelenir. Fakat
+bir ölümcül hata oluştuğunda artık derleme işlemi sonlandırılır. Ölümcül hatalar genellikle sistemdeki ciddi
+sorunlar yüzünden ortaya çıkmaktadır (örneğin diskte yeterli alan olmayabilir, ya da sistemde yeterli RAM
+bulunmuyor olabilir.)
+Verilen hata mesajlarının metinleri derleyiciden derleyiciye değişebilir. Ayrıca bir hata durumunda bir derleyici
+buna birmesaj verirken diğeri daha fazla mesaj verebilir.
 	* c-basic/C.pdf: Atom/Token kavramı sayfa 12
+
 	* c-basic/C.pdf: sayfa 11 Bir C Programını Oluşturmak
 
 	* c-basic/example.c (main): example örnek kod yazıldı .c uzantılı dosya içine kod yerleştirildi
