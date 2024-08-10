@@ -1,5 +1,6 @@
 2024-08-10  hwpplayer1  <hwpplayer1@debian>
 
+	* c-basic/C.pdf: Değişkenlere İlkdeğer Verilmesi (Initialization) sayfa 19
 	* c-basic/C.pdf: Derleyicilerin Hata Mesajları
 Derleyicilerin hata mesajları üçe ayrılmaktadır:
 1. Uyarılar (Warnings): Uyarılar gerçek hatalar değildir. Program içerisindeki program yapmış olabileceği olası
@@ -15,6 +16,8 @@ sorunlar yüzünden ortaya çıkmaktadır (örneğin diskte yeterli alan olmayab
 bulunmuyor olabilir.)
 Verilen hata mesajlarının metinleri derleyiciden derleyiciye değişebilir. Ayrıca bir hata durumunda bir derleyici
 buna birmesaj verirken diğeri daha fazla mesaj verebilir.
+
+
 	* c-basic/C.pdf: Atom/Token kavramı sayfa 12
 
 	* c-basic/C.pdf: sayfa 11 Bir C Programını Oluşturmak
