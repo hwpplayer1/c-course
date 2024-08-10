@@ -1,5 +1,7 @@
 2024-08-10  hwpplayer1  <hwpplayer1@debian>
 
+	* c-basic/klavyeden_okuma_scanf_2.c (main): scanf 2 sayfa 20/21
+
 	* c-basic/klavyeden_okuma_scanf.c (main): scanf Fonksiyonuyla Klavyeden Okuma Yapılması sayfa 20
 
 	* c-basic/C.pdf: Değişkenlere İlkdeğer Verilmesi (Initialization) sayfa 19
