@@ -1,5 +1,7 @@
 2024-08-10  hwpplayer1  <hwpplayer1@debian>
 
+	* c-basic/C.pdf: sayfa 11 Bir C Programını Oluşturmak
+
 	* c-basic/example.c (main): example örnek kod yazıldı .c uzantılı dosya içine kod yerleştirildi
 
 	* c-basic/C.pdf: Dersler C Temel kursundan itibaren yeniden başlatıldı. 
