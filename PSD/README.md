@@ -2,6 +2,10 @@
 
 Procyberian Systems Distribution UNIX Research and Development Notes !
 
+# Document License
+
+[CC BY-SA 4.0 or later](by-sa.markdown)
+
 # License
 
 Procyberian Systems Distribution UNIX Research and Development Notes !
