@@ -1,3 +1,21 @@
+2024-10-29  Mert Gör  <mertgor@masscollabs.xyz>
+
+	* c-basic/hex.c: Experımental Branch page 21
+
+	#include <stdio.h>
+
+	int main()
+	{
+		int a, b;
+
+		printf("Enter a number: \n");
+		scanf("%x", &a);
+		printf("a = %d\n", a);
+
+		return 0;
+	}	
+
+
 2024-10-23  Mert Gör  <hwpplayer1@debian>
 
 	*  (cc1): Tüm dersler incelendi. Pratiğe dökülecek konular : GNU Emacs, Linux kernel, Assembly(80X86 ve arm)
