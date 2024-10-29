@@ -1,5 +1,26 @@
 2024-10-29  Mert Gör  <mertgor@masscollabs.xyz>
 
+	* c-basic/d-f.c: #include <stdio.h>
+
+int main()
+{
+  float f;
+  double d;
+
+  printf("enter a float number: \n");
+  scanf("%f", &f);
+
+  printf("enter a double number: \n");
+  scanf("%lf", &d);
+
+  printf("f = %f, d = %f \n", f , d);
+
+  return 0;
+
+}
+
+	
+
 	* c-basic/hello.c (main): Hello World Example which is forgotten at start
 
 	* c-basic/hex.c: Experımental Branch page 21
