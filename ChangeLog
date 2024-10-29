@@ -1,5 +1,7 @@
 2024-10-29  Mert Gör  <mertgor@masscollabs.xyz>
 
+	* c-basic/C.pdf: page 21 question/work
+
 	* c-basic/d-f.c: #include <stdio.h>
 
 int main()
