@@ -1,5 +1,7 @@
 2024-10-30  Mert Gör  <mertgor@masscollabs.xyz>
 
+	* c-basic/scope.c (foo): same variable different scopes
+
 	* c-basic/C.pdf: page 25,end of the page
 
 	* c-basic/local_vs_global.c (main): local variable and global variable
