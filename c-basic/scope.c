@@ -3,9 +3,7 @@
 void foo()
 {
   int a;
-  {
   int a;
-  }
 }
 
 int main()
