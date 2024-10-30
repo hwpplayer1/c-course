@@ -1,5 +1,7 @@
 2024-10-30  Mert Gör  <mertgor@masscollabs.xyz>
 
+	* c-basic/void.c (main): Void/Return
+
 	* c-basic/return_example_001.c: return example 001
 
 	* c-basic/return_not_reachable.c (main): reachable code and unreachable code return
