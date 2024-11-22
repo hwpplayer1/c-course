@@ -1,3 +1,9 @@
+2024-11-22  Mert Gör  <mertgor@masscollabs.xyz>
+
+	* c-basic/C.pdf: Page 30 pow example
+
+	* c-basic/sqrt.c: Sqrt example written page 30
+
 2024-11-10  Mert Gör  <mertgor@masscollabs.xyz>
 
 	* c-basic/C.pdf: Page 29(end of 29) and 30 Bazı matematiksel standart c fonksiyonları
