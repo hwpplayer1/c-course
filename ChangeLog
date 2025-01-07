@@ -1,3 +1,8 @@
+2025-01-07  Mert Gör  <mertgor@masscollabs.xyz>
+
+	* c-basic/single_quote.c (main): İki tırnak karakterine ilişkin karakter sabiti '\”' ile belirtilir. Fakat tek tırnak içerisinde iki tırnak soruna yol açmaz.
+Ancak iki tırnak içerisinde iki tırnak soruna yol açar. Örneğin: page 34
+
 2025-01-06  Mert Gör  <mertgor@masscollabs.xyz>
 
 	* c-basic/CSD-C-Basic-Book/C.pdf: İki tırnak karakterine ilişkin karakter sabiti '\”' ile belirtilir. Fakat tek tırnak içerisinde iki tırnak soruna yol açmaz.
