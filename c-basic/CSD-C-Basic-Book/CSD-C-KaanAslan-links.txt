@@ -1,0 +1,19 @@
+1 - What is UNIX ? What does it mean ?
+
+https://en.wikipedia.org/wiki/Unix
+https://en.wikipedia.org/wiki/Unix#:~:text=In%201970%2C%20the%20group%20coined,of%20the%20final%20spelling%20Unix.
+
+2 - When was the first UNIX developed and which hardware was the first platform for the UNIX.
+
+https://en.wikipedia.org/wiki/History_of_Unix
+https://www.britannica.com/technology/UNIX
+https://www.redhat.com/en/blog/unix-linux-history
+
+3 - What is B programming language and also C programming language ?
+
+https://en.wikipedia.org/wiki/B_(programming_language)
+https://en.wikipedia.org/wiki/C_(programming_language)
+
+4 - What is a "personal computer"(PC) ?
+
+https://en.wikipedia.org/wiki/Personal_computer
