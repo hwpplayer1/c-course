@@ -1,9 +1,16 @@
 C Programlama Dili
+
 Kurs Notları
+
 Kaan ASLAN
+
 C ve Sistem Programcıları Derneği
+
 Güncelleme Tarihi: 12/07/2003
+
 Bu kurs notları Kaan ASLAN tarafından yazılmıştır. Kaynak belirtilmek koşuluyla her türlü alıntı yapılabilir.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 C Programlama Dilinin Tarihsel Gelişimi
 
