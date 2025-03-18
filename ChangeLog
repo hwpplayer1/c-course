@@ -1,3 +1,9 @@
+2025-03-18  Mert Gör  <mertgor@masscollabs.xyz>
+
+	* c-basic/CSD-C-Basic-Book/C.pdf: sayfa 21 printf fonksiyonundaki format karakterleri scanf fonksiyonunda klavyeden girişi belirlemektedir. Yani örneğin biz
+pir int değeri printf ile %x kullanarak yazdırırsak bu değer 16'lık sistemde ekrana yazdırılır. Fakat bir int değeri
+scanf ile %x ile okumak istersek klavyeden yaptığımız girişin 16'lık sistemde olduğu kabul edilir. Örneğin:
+
 2025-03-08  Mert Gör  <mertgor@masscollabs.xyz>
 
 	* UNIX-Linux/Unix-Linux-SysProg.pdf: Hızlıca incelendi sayfa 126
