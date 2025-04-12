@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int addition()
 {
   int a , b , c;
 

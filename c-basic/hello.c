@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int hello()
 {
   printf("Hello C Programming Language 2025 Examples");
 

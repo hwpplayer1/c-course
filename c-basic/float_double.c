@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int my_float()
 {
   float f;
   double d;

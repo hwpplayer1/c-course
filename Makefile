@@ -2,16 +2,12 @@ CC = gcc
 CFLAGS = -Wall -Wextra -std=c11
 SRCDIR = ./c-basic
 SRC = $(wildcard $(SRCDIR)/*.c)
-OBJ = $(SRC:.c=.o)
+OBJ = $(patsubst $(SRCDIR)/%.c, $(SRCDIR)/%.o, $(SRC))
 TARGET = main
-
 all: $(TARGET)
-
 $(TARGET): $(OBJ)
-    $(CC) $(CFLAGS) -o $@ $^
-
+	$(CC) $(CFLAGS) -o $@ $^
 $(SRCDIR)/%.o: $(SRCDIR)/%.c
-    $(CC) $(CFLAGS) -c $< -o $@
-
+	$(CC) $(CFLAGS) -c $< -o $@
 clean:
-    rm -f $(OBJ) $(TARGET)
+	rm -f $(OBJ) $(TARGET)

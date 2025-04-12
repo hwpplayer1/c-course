@@ -1,5 +1,11 @@
 #include <stdio.h>
-#include "hex_read_scanf.c"
+
+#ifndef HEX_READ_SCANF_H
+#define HEX_READ_SCANF_H
+
+extern void hex_scan();
+
+#endif // HEX_READ_SCANF_H
 
 int main()
 {

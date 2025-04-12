@@ -3,7 +3,7 @@
 int hex_scan()
 {
 
-  int a, b;
+  int a;
 
   printf("Enter a number : ");
 

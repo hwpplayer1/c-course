@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int scan_two_numbers()
 {
   int a, b;
 

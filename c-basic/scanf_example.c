@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int my_scan()
 {
   int a;
 

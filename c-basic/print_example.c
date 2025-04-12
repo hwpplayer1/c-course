@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int print_example()
 {
   int a = 10, b = 20;
 
