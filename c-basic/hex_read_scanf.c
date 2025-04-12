@@ -2,7 +2,7 @@
 
 int main()
 {
-  int a;
+  unsigned int a;
 
   printf("Enter your number : ");
   scanf("%x", &a);
