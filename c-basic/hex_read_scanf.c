@@ -1,11 +1,15 @@
 #include <stdio.h>
 
-int main() {
-    unsigned int a; // Change 'int' to 'unsigned int'
+int main()
+{
 
-    printf("Enter your number: ");
-    scanf("%x", &a); // Now 'a' matches '%x' expected type
-    printf("a = %u\n", a); // Use '%u' to correctly print an unsigned int
+  int a, b;
 
-    return 0;
+  printf("Enter a number : ");
+
+  scanf("%x", &a);
+
+  printf("a = %d\n", a);
+
+  return 0;
 }
