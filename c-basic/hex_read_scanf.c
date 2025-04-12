@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int hex_scan()
 {
 
   int a, b;
