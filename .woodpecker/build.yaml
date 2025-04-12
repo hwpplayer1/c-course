@@ -1,0 +1,8 @@
+when:
+  - event: [push, pull_request, manual]
+
+steps:
+  - name: build
+    image: masscollabs/build-essential:latest
+    commands:
+      - make
