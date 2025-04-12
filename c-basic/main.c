@@ -3,14 +3,14 @@
 #ifndef HEX_READ_SCANF_H
 #define HEX_READ_SCANF_H
 
-extern void hello();
+extern void hex_scan();
 
 #endif // HEX_READ_SCANF_H
 
 int main()
 {
 
-  hello();
+  hex_scan();
 
   return 0;
 }
