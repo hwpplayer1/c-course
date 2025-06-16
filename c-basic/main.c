@@ -1,10 +1,7 @@
 #include <stdio.h>
-#include "hello.c"
+#include "hello.h"
 
-int main()
-{
-
-  hello();
-  
-  return 0;
+int main() {
+    hello();
+    return 0;
 }
