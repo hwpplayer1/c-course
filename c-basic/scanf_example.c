@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "scanf_example.h"
 
 int my_scan()
 {
