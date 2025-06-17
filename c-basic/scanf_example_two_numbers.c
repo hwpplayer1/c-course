@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "scanf_example_two_numbers.h"
 
 int scan_two_numbers()
 {

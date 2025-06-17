@@ -1,9 +1,9 @@
 #include <stdio.h>
-#include "scanf_example.h"
+#include "scanf_example_two_numbers.h"
 
 int main() {
 
-  my_scan();
+  scan_two_numbers();
     
     return 0;
 }
