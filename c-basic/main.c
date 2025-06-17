@@ -1,7 +1,13 @@
 #include <stdio.h>
-#include "hello.h"
+#include "print_example.h"
 
 int main() {
-    hello();
+
+  print_example();
+    
     return 0;
 }
+
+/**
+   gcc main.c print_example.c -o print_example
+ **/
