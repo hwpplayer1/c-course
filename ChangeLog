@@ -1,3 +1,17 @@
+2025-06-18  Mert Gör  <hwpplayer1@masscollabs>
+
+	* c-basic/CSD-C-Basic-Book/C.pdf: printf fonksiyonundaki format karakterleri scanf fonksiyonunda klavyeden girişi belirlemektedir. Yani örneğin biz
+pir int değeri printf ile %x kullanarak yazdırırsak bu değer 16'lık sistemde ekrana yazdırılır. Fakat bir int değeri
+scanf ile %x ile okumak istersek klavyeden yaptığımız girişin 16'lık sistemde olduğu kabul edilir. Örneğin:
+#include <stdio.h>
+main()
+{
+int a, b;
+printf("Bir sayi giriniz : ");
+scanf("%x", &a);
+printf("a = %d\n", a);
+}
+
 2025-06-17  Mert Gör  <hwpplayer1@masscollabs>
 
 	* c-basic/CSD-C-Basic-Book/C.pdf: scanf ile 2 sayı girilmesi sayfa 20,21
