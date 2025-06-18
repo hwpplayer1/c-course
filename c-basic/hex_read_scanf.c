@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "hex_read_scanf.h"
 
 int hex_scan()
 {

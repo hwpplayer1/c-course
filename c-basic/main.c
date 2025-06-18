@@ -1,9 +1,9 @@
 #include <stdio.h>
-#include "scanf_example_two_numbers.h"
+#include "hex_read_scanf.h"
 
 int main() {
 
-  scan_two_numbers();
+  hex_scan();
     
     return 0;
 }
