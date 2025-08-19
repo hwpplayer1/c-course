@@ -1,10 +1,11 @@
-#include "foo.h"
+#include "myprint.h"
 
 int main() {
 
-  foo();
+  myprint();
 
   return 0;
 
 }
+
 
