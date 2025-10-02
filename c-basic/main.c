@@ -1,11 +1,8 @@
-#include "myprint.h"
+#include <stdio.h>
 
 int main() {
 
-  myprint();
+  printf("hello world year 2025 !\n");
 
-  return 0;
-
+  return 0;\
 }
-
-
