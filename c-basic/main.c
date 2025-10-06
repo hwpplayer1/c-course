@@ -1,8 +1,8 @@
 #include <stdio.h>
+#include "foo.h"
 
 int main() {
-
-  printf("hello world year 2025 !\n");
-
-  return 0;
+    foo();
+    
+    return 0;
 }
