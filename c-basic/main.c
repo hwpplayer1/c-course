@@ -1,8 +1,7 @@
 #include <stdio.h>
-#include "foo.h"
 
 int main() {
-    foo();
-    
-    return 0;
+  printf("hello baby\n");
+
+  return 0;
 }
