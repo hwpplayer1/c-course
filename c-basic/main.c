@@ -1,23 +1,19 @@
 #include <stdio.h>
 
-int add(int a , int b) {
-  return a + b;
-}
-
-int mul(int a , int b) {
-  return a * b;
-}
-
 int main() {
-  int result;
 
-  result = add(10,20);
-  printf("%d\n", result);
+  int a = 0;
+  int i;
 
-  result = mul(10, 20);
-  printf("%d\n", result);
+  for (i = 0; i < 10; ++i) {
 
+    a += 1;
+    if (a == 9)
+    break;
+  }
+
+  printf("a is %d\n", a);
+  
   return 0;
+  
 }
-
-// page 29
